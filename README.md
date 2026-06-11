@@ -1,5 +1,4 @@
 # AI-Powered-Medical-Chatbot
-# AI-Powered Medical Chatbot for Heart Disease Detection
 
 ## Overview
 
